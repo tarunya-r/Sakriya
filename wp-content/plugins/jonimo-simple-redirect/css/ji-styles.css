@@ -1,0 +1,202 @@
+/* Welcome Panel */
+.welcome-panel {
+	position: relative;
+	overflow: auto;
+	margin: 16px 0;
+	padding: 23px 10px 0;
+	font-size: 13px;
+	line-height: 2.1em;
+}
+
+.welcome-panel h3 {
+	margin: 0;
+	font-size: 21px;
+	font-weight: normal;
+	line-height: 1.2;
+}
+
+.welcome-panel h4 {
+	margin: 1.33em 0 0;
+	font-size: 16px;
+}
+
+.welcome-panel li {
+	font-size: 14px;
+}
+
+.welcome-panel .about-description {
+	font-size: 16px;
+	margin: 0;
+}
+
+.welcome-panel .ji-welcome-panel-close {
+	position: absolute;
+	top: 5px;
+	right: 10px;
+	padding: 20px 15px 0 3px;
+	font-size: 13px;
+	text-decoration: none;
+	line-height: 1;
+}
+
+#welcome-panel.welcome-panel .ji-welcome-panel-close::before,
+.tagchecklist span a:before,
+#bulk-titles div a:before {
+	content: '\f153';
+	display: block !important;
+	font: normal 16px/1 'dashicons';
+	speak: none;
+	height: 20px;
+	margin: 2px 0;
+	text-align: center;
+	width: 20px;
+	-webkit-font-smoothing: antialiased !important;
+}
+
+#welcome-panel.welcome-panel .ji-welcome-panel-close::before {
+	position: absolute;
+	left: -18px;
+	margin-top: -2px;
+	-webkit-transition: all .1s ease-in-out;
+	-moz-transition:    all .1s ease-in-out;
+	transition:         all .1s ease-in-out;
+}
+
+.wp-core-ui .welcome-panel .button.button-hero {
+	margin: 15px 0 3px;
+}
+
+.welcome-panel-content {
+	margin-left: 13px;
+	max-width: 1500px;
+}
+
+.welcome-panel .welcome-panel-column-container {
+	clear: both;
+	overflow: hidden;
+	position: relative;
+}
+
+.welcome-panel .welcome-panel-column {
+	width: 32%;
+	min-width: 200px;
+	float: left;
+}
+
+.ie8 .welcome-panel .welcome-panel-column {
+	min-width: 230px;
+}
+
+.welcome-panel .welcome-panel-column:first-child {
+	width: 36%;
+}
+
+.welcome-panel-column p.hide-if-no-customize {
+	margin-top: 10px;
+}
+
+.welcome-panel-column p {
+	margin-top: 7px;
+}
+
+.welcome-panel .welcome-icon {
+	display: block;
+	padding: 0 0 8px;
+	background: transparent !important;
+}
+
+.welcome-panel .welcome-icon:before {
+	font: normal 20px/1 'dashicons';
+	speak: none;
+	display: inline-block;
+	padding: 0 10px 0 0;
+	top: -1px;
+	position: relative;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-decoration: none !important;
+	vertical-align: top;
+}
+
+.welcome-panel .welcome-write-blog:before,
+.welcome-panel .welcome-edit-page:before {
+	content:'\f119';
+	top: -3px;
+}
+
+.welcome-panel .welcome-add-page:before {
+	content:'\f132';
+}
+
+.welcome-panel .welcome-view-site:before {
+	content:'\f115';
+	top: -2px;
+}
+
+.welcome-panel .welcome-widgets-menus:before {
+	content:'\f116';
+	top: -2px;
+}
+
+.welcome-panel .welcome-comments:before {
+	content:'\f117';
+	top: -1px;
+}
+
+.welcome-panel .welcome-learn-more:before {
+	content:'\f118';
+	top: -1px;
+}
+
+.welcome-panel .welcome-widgets-menus {
+	line-height: 16px;
+}
+
+.welcome-panel .welcome-panel-column ul {
+	margin: 0.8em 1em 1em 0;
+}
+
+.welcome-panel .welcome-panel-column li {
+	line-height: 16px;
+	list-style-type: none;
+}
+
+.alert {
+height: auto;
+font-size: 12px;
+line-height: 16px;
+overflow: hidden;
+padding: 12px 15px;
+text-align: left;
+margin-bottom: 20px;
+font-weight: normal;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+-ms-box-sizing: border-box;
+box-sizing: border-box;
+clear: both;
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 0;
+-moz-box-shadow: 0 1px 0 rgba(0,0,0,.1);
+-webkit-box-shadow: 0 1px 0 rgba(0,0,0,.1);
+box-shadow: 0 1px 0 rgba(0,0,0,.1);
+border: 0;
+background-color: #fbf7e3;
+}
+
+.alert.alert-success {
+background-color: #dfefd7;
+}
+
+.alert-success {
+color: #468847;
+background-color: #dff0d8;
+border-color: #d6e9c6;
+}
+
+.alert-info {
+color: #3a87ad;
+background-color: #d9edf7;
+border-color: #bce8f1;
+}

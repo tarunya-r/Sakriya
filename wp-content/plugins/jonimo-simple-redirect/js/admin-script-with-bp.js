@@ -1,0 +1,100 @@
+jQuery(document).ready(function(jQuery) {
+    if(jQuery(".ji-welcome-panel-close").length) {
+       jQuery(".ji-welcome-panel-close").click(function() {
+          jQuery.post(ajaxurl,
+             {action:'ji_redirect_welcome_panel_close',welcomepanelnonce_ji:jQuery('#welcomepanelnonce_ji').val()},
+             function(data) {
+                if(data == 1) jQuery(".welcome-panel").hide();
+             }
+          );
+          return false;
+       });
+    }
+    
+    if (jQuery('#ji_register_page').val() != 0){
+    jQuery( ".form-table tr:nth-child(6)" ).show();
+    }
+    else if (jQuery('#ji_register_tag').val() != 0){
+    jQuery( ".form-table tr:nth-child(6)" ).show();  
+    }
+    else if (jQuery('#ji_register_cats').val() != 0){
+    jQuery( ".form-table tr:nth-child(6)" ).show();  
+    }
+    else if (jQuery('#ji_register_bp').val() != 0){
+    jQuery( ".form-table tr:nth-child(6)" ).show();  
+    }
+    else if (jQuery('#ji_register_custom').val() != 0){
+    jQuery( ".form-table tr:nth-child(6)" ).show();  
+    }
+    else {
+    jQuery( ".form-table tr:nth-child(6)" ).hide();     
+    }
+
+jQuery('#ji_register_page').change(function(){
+    jQuery('#ji_register_cats').prop('selectedIndex',0);
+    jQuery('#ji_register_tag').prop('selectedIndex',0);
+    jQuery('#ji_register_bp').prop('selectedIndex',0);
+    jQuery('#ji_register_custom').attr('value', "");
+    if (jQuery(this).val() != '0'){
+    jQuery(".form-table tr:nth-child(6)").show(200);
+    }
+    else{
+    jQuery(".form-table tr:nth-child(6)").hide(200);   
+    }
+});
+
+jQuery('#ji_register_cats').change(function(){
+    jQuery('#ji_register_page').prop('selectedIndex',0);
+    jQuery('#ji_register_tag').prop('selectedIndex',0);
+    jQuery('#ji_register_bp').prop('selectedIndex',0);
+    jQuery('#ji_register_custom').attr('value', "");
+    if (jQuery(this).val() != '0'){
+    jQuery(".form-table tr:nth-child(6)").show(200);
+    }
+    else{
+    jQuery(".form-table tr:nth-child(6)").hide(200);   
+    }
+});
+
+jQuery('#ji_register_tag').change(function(){
+    jQuery('#ji_register_page').prop('selectedIndex',0);
+    jQuery('#ji_register_cats').prop('selectedIndex',0);
+    jQuery('#ji_register_bp').prop('selectedIndex',0);
+    jQuery('#ji_register_custom').attr('value', "");
+    //jQuery(".form-table tr:nth-child(6)").css('display', (jQuery(this).val() != '0' ) ? 'block' : 'none');
+    if (jQuery(this).val() != '0'){
+    jQuery(".form-table tr:nth-child(6)").show(200);
+    }
+    else{
+    jQuery(".form-table tr:nth-child(6)").hide(200);   
+    }
+});
+
+jQuery('#ji_register_bp').change(function(){
+    jQuery('#ji_register_page').prop('selectedIndex',0);
+    jQuery('#ji_register_cats').prop('selectedIndex',0);
+    jQuery('#ji_register_tag').prop('selectedIndex',0);
+    jQuery('#ji_register_custom').attr('value', ""); 
+    if (jQuery(this).val() != '0'){
+    jQuery(".form-table tr:nth-child(6)").show(200);
+    }
+    else{
+    jQuery(".form-table tr:nth-child(6)").hide(200);   
+    }
+});
+
+jQuery('#ji_register_custom').on('input',function(){
+    jQuery('#ji_register_page').prop('selectedIndex',0);
+    jQuery('#ji_register_cats').prop('selectedIndex',0);
+    jQuery('#ji_register_tag').prop('selectedIndex',0);
+    jQuery('#ji_register_bp').prop('selectedIndex',0);
+    if (jQuery(this).val() != ''){
+    jQuery(".form-table tr:nth-child(5)").show(200);
+    }
+    else{
+    jQuery(".form-table tr:nth-child(5)").hide(200);   
+    }
+});
+});
+
+

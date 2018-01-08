@@ -1,0 +1,2 @@
+2018-01-04T05:47:24+00:00 CRITICAL Cannot redeclare tgmpa_load_bulk_installer() (previously declared in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/custom-my-account-for-woocommerce/libs/tgm/class-tgm-plugin-activation.php:3154)
+

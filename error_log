@@ -1,0 +1,1179 @@
+[29-Nov-2017 13:27:10 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[29-Nov-2017 13:27:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[30-Nov-2017 04:28:58 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[30-Nov-2017 04:28:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[30-Nov-2017 10:16:14 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[30-Nov-2017 10:16:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[30-Nov-2017 10:43:53 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[30-Nov-2017 10:43:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[30-Nov-2017 11:03:33 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[30-Nov-2017 11:03:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[30-Nov-2017 11:30:26 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[30-Nov-2017 11:30:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[30-Nov-2017 12:26:39 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[30-Nov-2017 12:26:39 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[30-Nov-2017 12:46:50 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[30-Nov-2017 12:46:50 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 04:41:16 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 04:41:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 05:01:54 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 05:01:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 05:11:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 05:21:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 05:49:33 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 05:49:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 06:03:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 06:04:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 06:53:21 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 06:53:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 06:53:41 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 06:53:41 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 06:53:47 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 06:53:47 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 06:53:52 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 06:53:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 06:53:57 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 06:53:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 07:05:18 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 07:05:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 07:37:10 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 07:37:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Dec-2017 04:37:26 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[02-Dec-2017 04:37:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Dec-2017 08:01:44 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[02-Dec-2017 08:01:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Dec-2017 08:02:12 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[02-Dec-2017 08:02:12 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Dec-2017 08:02:18 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[02-Dec-2017 08:02:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Dec-2017 08:04:00 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[02-Dec-2017 08:04:00 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Dec-2017 08:07:54 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[02-Dec-2017 08:07:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Dec-2017 08:08:19 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[02-Dec-2017 08:08:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Dec-2017 08:09:49 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[02-Dec-2017 08:09:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Dec-2017 08:21:36 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[02-Dec-2017 08:21:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Dec-2017 08:22:03 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[02-Dec-2017 08:22:03 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Dec-2017 06:34:13 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[03-Dec-2017 06:34:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Dec-2017 04:30:20 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[04-Dec-2017 04:30:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Dec-2017 04:41:15 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[04-Dec-2017 04:41:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Dec-2017 05:38:48 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[04-Dec-2017 05:38:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Dec-2017 06:52:00 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[04-Dec-2017 06:52:00 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Dec-2017 07:01:24 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[04-Dec-2017 07:01:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 04:39:25 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[05-Dec-2017 04:39:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 04:49:27 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_add_to_cart_fragments.
+[05-Dec-2017 04:49:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 07:33:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 07:38:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 07:39:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 07:40:39 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 08:21:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 09:37:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 09:37:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 09:48:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 09:48:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 09:52:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 09:52:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 09:53:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 09:53:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 09:59:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 10:05:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 10:11:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 10:11:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 10:11:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 10:22:55 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 11:01:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 11:21:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 11:49:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 12:01:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 12:01:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 12:06:39 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 12:08:30 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 12:12:37 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 12:12:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 12:13:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 12:19:50 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 12:20:30 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 12:32:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 12:57:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 12:57:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:11:12 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:17:00 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:20:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:25:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:25:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:25:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:25:39 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:25:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:25:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:25:47 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:28:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:28:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:30:41 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:30:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:50:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 13:51:00 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 15:42:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 16:25:37 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Dec-2017 17:30:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 04:34:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 04:37:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 04:40:28 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 04:44:01 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 04:46:35 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 04:52:08 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 04:53:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 05:29:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 05:31:41 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 06:45:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 06:52:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 06:52:35 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 06:53:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 06:54:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 06:58:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 06:58:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 06:58:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 07:00:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 07:00:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 07:05:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 10:06:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[07-Dec-2017 11:42:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=76334 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[08-Dec-2017 05:21:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 05:24:28 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 06:19:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 06:29:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 07:13:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 07:25:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 07:31:28 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 07:34:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 07:47:00 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 08:10:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 08:16:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 08:20:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 09:06:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 09:06:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 09:15:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 09:49:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 09:49:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 09:50:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:02:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:15:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:16:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:16:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:16:45 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:16:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:20:00 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:20:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:21:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:21:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:21:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:23:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:24:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:26:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:26:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:26:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:28:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:29:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:30:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:31:08 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:31:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:32:03 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:33:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:36:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:36:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:36:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:36:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:38:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:39:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:40:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:41:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:41:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:43:30 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 10:49:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 11:01:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 11:03:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 11:04:02 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 11:04:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 11:11:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 11:12:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 11:15:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 12:05:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 12:18:08 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 13:22:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 13:30:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 13:31:28 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 13:36:11 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 13:41:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 13:42:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 13:45:42 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[08-Dec-2017 17:48:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 04:36:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 04:42:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 04:42:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 04:50:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 04:50:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 04:52:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:15:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:15:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:16:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:16:11 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:16:11 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:16:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:16:28 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:18:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:18:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:18:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:18:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:21:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 05:25:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 08:03:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 08:35:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 08:38:50 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 09:30:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 09:41:11 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 09:41:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 09:52:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 10:13:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 10:14:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 11:21:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 11:34:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 11:53:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 11:57:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 11:59:37 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 12:13:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 12:13:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 12:29:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 12:30:01 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 12:30:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 12:46:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 12:48:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 12:48:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 12:57:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 12:58:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 12:58:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 13:09:03 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 13:24:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[09-Dec-2017 16:11:42 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[10-Dec-2017 10:19:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 04:35:08 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 04:42:03 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 04:44:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 04:44:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 04:59:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 05:00:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 05:32:41 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 05:44:47 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 05:47:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:05:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:25:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:25:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:27:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:28:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:28:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:30:41 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:30:45 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:31:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:31:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:35:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:38:09 UTC] The The "woocommerce_add_order_item_meta" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_new_order_item.
+[11-Dec-2017 06:38:09 UTC] The The "woocommerce_add_order_item_meta" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_new_order_item.
+[11-Dec-2017 06:38:09 UTC] The The "woocommerce_add_order_item_meta" hook uses out of date data structures and function is deprecated since version 3.2.5. Replace with woocommerce_new_order_item.
+[11-Dec-2017 06:38:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:43:47 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:44:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:46:50 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 06:48:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 07:06:37 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 07:06:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 07:17:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 07:17:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 07:33:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 07:45:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 07:58:41 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 08:05:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 08:18:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 08:21:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 08:22:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 08:23:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 08:23:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 08:23:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 08:23:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 08:50:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 09:22:47 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 09:23:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 09:23:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 09:26:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 09:33:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 09:54:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 10:49:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 11:10:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 11:22:30 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 11:28:41 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 12:53:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 12:53:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 12:53:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 12:53:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 12:55:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 12:56:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 12:56:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Dec-2017 13:04:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 04:32:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 04:33:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 04:34:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 04:34:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 04:36:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 04:47:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 04:47:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 04:53:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 05:09:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 05:58:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:08:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:08:35 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:08:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:10:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:16:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:17:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:18:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:19:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:19:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:20:41 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:20:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:21:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:22:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:23:00 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:24:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:27:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:27:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:29:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:30:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:36:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 06:39:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:03:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:08:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:09:00 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:09:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:09:39 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:09:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:10:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:11:28 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:18:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:26:37 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:27:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:27:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:28:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:52:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 07:57:03 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:03:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:11:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:13:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:16:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:25:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:26:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:29:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:29:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:29:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:29:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:29:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:30:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:31:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:31:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 08:31:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 09:28:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 09:29:39 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 09:30:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 09:32:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 09:47:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 09:48:00 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:06:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:07:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:07:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:07:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:18:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:18:47 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:19:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:19:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:20:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:22:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:27:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:43:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 10:52:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 11:08:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 12:37:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 12:45:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 13:27:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 13:27:42 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[12-Dec-2017 13:28:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 04:39:41 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 04:40:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 04:40:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 04:41:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 04:42:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 04:42:47 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 04:48:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 04:48:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 05:36:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 05:53:30 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 06:03:47 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 06:04:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 06:13:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 06:50:35 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 07:00:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 07:01:08 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 07:12:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 08:00:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 08:17:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 08:29:02 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 08:30:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 09:39:55 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 09:44:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 09:48:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 09:48:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 09:49:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 10:08:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 10:11:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 10:11:35 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 10:14:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 10:23:42 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 11:09:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 12:21:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 12:41:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 12:52:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 13:27:01 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[13-Dec-2017 13:29:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 04:33:35 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 04:34:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 06:23:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 07:12:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 07:28:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 07:50:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 07:50:47 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 09:34:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 09:41:35 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 09:45:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 09:50:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 09:52:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 09:53:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 10:06:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 10:34:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 10:35:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 11:34:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 11:34:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 12:39:39 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 12:39:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 19:58:12 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[14-Dec-2017 19:59:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 04:41:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 04:58:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 04:59:47 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 04:59:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 04:59:50 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 05:03:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 05:04:00 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 05:35:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 05:40:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 05:45:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 05:55:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 05:59:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 06:03:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 06:04:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 06:08:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 06:18:03 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 06:39:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 06:49:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 07:07:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=20205 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[15-Dec-2017 07:07:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[15-Dec-2017 07:07:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 08:02:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 08:23:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 08:35:47 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 09:29:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 09:44:12 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 09:49:11 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 09:50:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 09:53:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 10:08:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 10:30:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 10:40:08 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 10:48:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 10:56:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 12:01:11 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 12:09:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 12:24:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 12:32:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 13:10:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 13:24:30 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[15-Dec-2017 13:24:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 04:35:08 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 04:52:11 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 04:54:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 05:25:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 05:33:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 06:04:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 06:06:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 06:07:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 06:52:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 06:54:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 07:06:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 07:52:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 07:59:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 09:45:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 09:58:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 09:58:37 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 10:19:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[16-Dec-2017 11:34:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 04:33:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 04:34:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 04:37:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 04:55:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 06:01:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 06:01:18 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 06:01:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 06:18:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 06:18:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 06:24:20 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 06:24:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 06:25:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 06:32:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 06:32:42 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 07:20:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 07:21:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 07:21:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 07:21:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 07:21:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 07:21:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 07:23:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 07:24:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 07:25:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bbloomer_remove_sidebar_product_pages' not found or invalid function name in /home/sosasap/public_html/tarunya/sports/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 07:37:41 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 07:57:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 08:18:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 11:11:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 12:56:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 13:03:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 13:30:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 13:31:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[18-Dec-2017 13:32:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 04:36:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 04:37:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 04:40:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 04:55:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 05:05:08 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 05:39:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 08:24:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 08:24:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 10:42:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 10:42:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 10:43:01 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 10:43:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[19-Dec-2017 13:32:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 04:47:30 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 04:48:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 04:52:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 04:53:39 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 04:56:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 04:56:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 05:59:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 05:59:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 06:19:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 06:37:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 06:38:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 06:56:02 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 06:57:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-payment-gateway/includes/class-wc-gateway-inspire.php on line 298
+[20-Dec-2017 06:57:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-payment-gateway/includes/class-wc-gateway-inspire.php on line 298
+[20-Dec-2017 07:33:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 08:17:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 08:20:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 11:21:35 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 12:47:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 12:47:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[20-Dec-2017 13:00:50 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 04:36:41 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 04:40:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 04:44:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 04:45:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 07:30:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 09:47:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 10:55:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 10:55:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 12:09:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 12:12:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 12:12:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 12:34:55 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 13:28:37 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 13:28:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 13:28:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 13:29:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-payment-gateway/includes/class-wc-gateway-inspire.php on line 298
+[21-Dec-2017 13:29:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-payment-gateway/includes/class-wc-gateway-inspire.php on line 298
+[21-Dec-2017 13:29:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 13:29:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 13:29:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 13:29:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 18:44:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[21-Dec-2017 20:03:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 04:39:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 04:43:42 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 04:44:12 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 04:53:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 04:54:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 05:12:39 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 05:13:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 05:15:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 05:51:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 06:03:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 06:05:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 06:06:02 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 06:19:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 06:22:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 06:34:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 06:58:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:00:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:05:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:06:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:07:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:12:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:13:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:33:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:41:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:44:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:44:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:46:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:47:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 07:58:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 08:11:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 08:21:11 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 08:30:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 08:31:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 08:31:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 08:34:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 09:21:08 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 09:27:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 09:27:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 09:30:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 09:30:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 09:43:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 10:14:55 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 10:18:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 10:42:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 11:21:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 11:25:14 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[22-Dec-2017 11:25:14 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[22-Dec-2017 11:25:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[22-Dec-2017 11:25:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=32205 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[22-Dec-2017 11:25:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=32140 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[22-Dec-2017 11:25:24 UTC] PHP Warning:  Error while sending QUERY packet. PID=32293 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[22-Dec-2017 11:25:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[22-Dec-2017 11:25:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[22-Dec-2017 11:25:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[22-Dec-2017 11:26:12 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 11:27:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 11:27:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 11:28:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 11:34:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=34666 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[22-Dec-2017 11:34:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=34376 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[22-Dec-2017 11:34:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[22-Dec-2017 11:34:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[22-Dec-2017 11:39:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 11:40:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 11:40:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 11:40:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 11:40:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 11:51:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 11:57:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 12:00:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=41000 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[22-Dec-2017 12:00:51 UTC] PHP Warning:  Error while sending QUERY packet. PID=41319 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[22-Dec-2017 12:00:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[22-Dec-2017 12:01:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 12:05:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 12:07:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 12:08:37 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 12:08:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 12:09:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 12:14:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 12:15:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 12:22:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 12:25:10 UTC] PHP Warning:  Error while sending QUERY packet. PID=47380 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[22-Dec-2017 12:25:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[22-Dec-2017 12:28:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 13:00:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 13:00:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 13:06:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[22-Dec-2017 13:12:01 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[23-Dec-2017 12:02:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 02:52:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 04:35:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 04:35:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 04:41:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 04:54:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 05:10:12 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 05:12:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 05:16:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 05:26:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 05:54:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 06:01:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 06:16:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 06:17:28 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 09:40:55 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 12:18:08 UTC] PHP Warning:  Error while sending QUERY packet. PID=3117 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[26-Dec-2017 12:18:08 UTC] PHP Warning:  Error while sending QUERY packet. PID=3134 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[26-Dec-2017 12:18:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[26-Dec-2017 12:18:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1296
+[26-Dec-2017 12:27:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[26-Dec-2017 12:32:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 04:38:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 04:52:28 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 06:33:45 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 06:33:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 06:59:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 10:30:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 11:54:30 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 12:29:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 12:35:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 13:13:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 13:13:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 13:23:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 13:23:50 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 13:23:50 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 13:23:50 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 13:26:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-payment-gateway/includes/class-wc-gateway-inspire.php on line 298
+[27-Dec-2017 13:26:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-payment-gateway/includes/class-wc-gateway-inspire.php on line 298
+[27-Dec-2017 13:29:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-payment-gateway/includes/class-wc-gateway-inspire.php on line 298
+[27-Dec-2017 13:30:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 13:30:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 13:30:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 13:30:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[27-Dec-2017 16:46:30 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[29-Dec-2017 11:02:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[29-Dec-2017 13:32:50 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[30-Dec-2017 03:38:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[30-Dec-2017 04:59:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 04:46:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 04:47:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 05:16:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 05:20:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 05:46:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 06:05:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 06:36:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 06:57:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 06:58:42 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 07:18:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 07:30:42 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 07:48:39 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 08:16:01 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  include_once(/home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php): failed to open stream: No such file or directory in /home/sosasap/public_html/tarunya/sports/wp-settings.php on line 305
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  include_once(): Failed opening '/home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sosasap/public_html/tarunya/sports/wp-settings.php on line 305
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:58 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  strpos(): Empty needle in /home/sosasap/public_html/tarunya/sports/wp-includes/plugin.php on line 658
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-settings.php:305) in /home/sosasap/public_html/tarunya/sports/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-settings.php:305) in /home/sosasap/public_html/tarunya/sports/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-settings.php:305) in /home/sosasap/public_html/tarunya/sports/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-settings.php:305) in /home/sosasap/public_html/tarunya/sports/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-settings.php:305) in /home/sosasap/public_html/tarunya/sports/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-settings.php:305) in /home/sosasap/public_html/tarunya/sports/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-settings.php:305) in /home/sosasap/public_html/tarunya/sports/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-settings.php:305) in /home/sosasap/public_html/tarunya/sports/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-settings.php:305) in /home/sosasap/public_html/tarunya/sports/wp-includes/rest-api/class-wp-rest-server.php on line 1274
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-settings.php:305) in /home/sosasap/public_html/tarunya/sports/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[01-Jan-2018 10:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-settings.php:305) in /home/sosasap/public_html/tarunya/sports/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[01-Jan-2018 10:18:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 10:34:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 10:53:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 10:54:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 11:00:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 11:03:45 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 11:07:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 11:10:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 11:31:30 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 11:33:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 11:34:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 11:50:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 11:55:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 13:21:03 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 13:25:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Jan-2018 13:28:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 04:27:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 04:27:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 04:31:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 04:32:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 04:37:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 05:05:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 05:14:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 05:15:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 05:25:45 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 05:32:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 05:40:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 05:56:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 05:57:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 05:58:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:08:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:11:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:11:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:14:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:22:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:23:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:24:29 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:24:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:48:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:49:55 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:49:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:50:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:50:55 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 06:55:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 07:01:02 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 07:03:12 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 09:22:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 09:40:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 10:22:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 10:42:28 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 10:46:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 12:06:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 12:06:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 12:09:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 13:06:25 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 13:06:58 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 13:29:35 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 13:31:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Jan-2018 13:31:42 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 04:33:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 04:35:03 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 04:36:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 04:39:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 04:52:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 04:53:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 04:53:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 04:59:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 05:00:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 05:00:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 05:17:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 07:13:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 07:14:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 07:18:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 07:19:12 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 07:47:21 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 08:01:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 09:19:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 09:21:53 UTC] PHP Warning:  Illegal string offset 'cart' in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1737
+[03-Jan-2018 09:21:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 09:24:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 09:28:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 09:48:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 09:50:42 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 10:02:50 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 10:03:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 10:04:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 10:08:39 UTC] PHP Warning:  Illegal string offset 'cart' in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1737
+[03-Jan-2018 10:08:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 10:19:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 10:42:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 10:43:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 11:27:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 11:28:55 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 11:29:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 11:57:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 11:58:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 13:08:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Jan-2018 13:10:05 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 04:39:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 04:40:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 04:48:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 04:48:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 04:51:17 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 04:59:45 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 05:44:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 05:44:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 05:48:10 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.6. Replace with woocommerce_add_to_cart_fragments.
+[04-Jan-2018 05:48:10 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 05:52:52 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.6. Replace with woocommerce_add_to_cart_fragments.
+[04-Jan-2018 05:52:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 06:06:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 06:27:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 06:41:08 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 07:03:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 07:20:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 07:34:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 07:35:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 07:37:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 09:29:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 09:40:37 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 09:44:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:17:57 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:18:28 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:18:35 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:19:15 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:20:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:25:26 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:26:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:27:39 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:27:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:31:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:33:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:34:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:37:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:40:12 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:41:03 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:41:38 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:41:48 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:41:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:43:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:44:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:44:42 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:47:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:48:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:51:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:52:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 10:53:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 11:02:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 11:02:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:26 UTC] PHP Warning:  Error while sending QUERY packet. PID=52319 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=52321 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=52314 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=52234 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=52322 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=52311 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=52317 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=52236 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=52237 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=52318 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=52241 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=52238 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=52249 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=52239 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=52250 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=52252 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=52255 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:33 UTC] PHP Warning:  Error while sending QUERY packet. PID=52260 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:33 UTC] PHP Warning:  Error while sending QUERY packet. PID=52263 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:33 UTC] PHP Warning:  Error while sending QUERY packet. PID=52256 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:33 UTC] PHP Warning:  Error while sending QUERY packet. PID=52258 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=52276 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=52266 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=52273 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=52268 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=52270 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=52272 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=52269 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52275 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52280 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52271 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52277 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52281 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52288 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52278 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52285 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52284 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52286 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52279 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52292 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52283 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52282 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52293 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52294 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=52287 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:36 UTC] PHP Warning:  Error while sending QUERY packet. PID=52290 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-includes/functions.php on line 3767
+[04-Jan-2018 11:04:41 UTC] PHP Warning:  Error while sending QUERY packet. PID=52227 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=52226 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:44 UTC] PHP Warning:  Error while sending QUERY packet. PID=52229 in /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php on line 1931
+[04-Jan-2018 11:04:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:04:59 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 11:04:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:05:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:05:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:05:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:05:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:05:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sosasap/public_html/tarunya/sports/wp-includes/wp-db.php:1931) in /home/sosasap/public_html/tarunya/sports/wp-content/plugins/woocommerce-abandoned-cart/woocommerce-ac.php on line 1289
+[04-Jan-2018 11:05:16 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 11:05:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 11:06:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 11:09:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 11:29:49 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 13:01:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[04-Jan-2018 13:02:12 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 04:33:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 04:35:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 04:35:39 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 04:50:18 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 04:51:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 04:53:55 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 04:58:32 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 05:39:30 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 06:34:03 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 06:52:34 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 07:43:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 08:58:23 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 09:37:08 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 09:53:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 10:00:14 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 10:13:13 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 10:13:34 UTC] WordPress database error Got error 'empty (sub)expression' from regexp for query SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID FROM wp_posts  INNER JOIN wp_postmeta ON ( wp_posts.ID = wp_postmeta.post_id ) WHERE 1=1  AND ( 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (6)
+			)
+) AND ( 
+  wp_postmeta.meta_key = 'total_sales'
+) AND wp_posts.post_type = 'product' AND (wp_posts.post_status = 'publish') AND (   LOWER(post_title) REGEXP '' ) GROUP BY wp_posts.ID ORDER BY wp_postmeta.meta_value+0 DESC, wp_posts.post_date DESC LIMIT 0, 16 made by require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts
+[05-Jan-2018 10:28:19 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 10:29:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 10:32:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 12:10:53 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 13:05:54 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 13:06:30 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[05-Jan-2018 13:14:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Jan-2018 04:35:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Jan-2018 04:39:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.

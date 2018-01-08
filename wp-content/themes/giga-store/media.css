@@ -1,0 +1,118 @@
+@media(min-width: 1110px) and (max-width: 1300px){
+    #customdiv {
+    padding-left: 56px !important;
+    }
+    
+}
+@media(min-width: 911px) and (max-width: 1109px){
+    #customdiv {
+    padding-left: 10px !important;
+    }
+    
+}
+
+
+
+@media(min-width: 768px) and (max-width: 1199px) {
+    .header-section{
+        height: 100px;
+    }
+    .header-cart {
+        margin-top: -74px !important;
+        left: 37% !important;
+    }
+}
+@media(min-width: 601px) and (max-width: 767px){
+    #site-navigation{
+        display: none;
+    }
+    .header-section {
+        top: 0px !important;
+    }
+    
+}
+@media(max-width: 600px){
+ #site-navigation{
+        display: none;
+    } 
+.header-section {
+        top: 0px !important;
+    }
+   
+ .header-cart {
+     left: -27px !important;
+ }
+
+}
+@media(max-width: 766px){
+     #customdiv{
+    padding-left: 10px !important;
+    
+ }
+ .wp-mega-toggle-block{
+     background: white;
+ }
+ .dashicons{
+     color: black;
+ }
+ #wpmm-wrap-my-custom-menu{
+     background: #f6f6f6;
+ }
+    
+}
+@media(min-width: 993px) and (max-width: 1045px){
+    #sidebar-secondary {
+        width: 23% !important;
+    }
+}
+@media(max-width: 992px){
+    #sidebar-secondary{
+        
+    width: 100% !important;
+}
+    
+}
+@media(min-width: 970px) and (max-width: 1126px) {
+    
+  .woocommerce table.shop_table{
+      width: 86% !important;
+  }
+  .cart_totals {
+      margin-right: 7%;
+  }
+  #payment{
+      width: 86%;
+  }
+}
+@media(min-width: 769px) and (max-width: 969px) {
+    
+  .woocommerce table.shop_table{
+      width: 68% !important;
+  }
+   .cart_totals {
+      margin-right: 17%;
+  }
+   #payment{
+      width: 68%;
+  }
+}
+@media(max-width: 768px) {
+    
+  .woocommerce table.shop_table{
+      width: 29% !important;
+  }
+  #payment{
+      width: 29%;
+  }
+  .woocommerce-billing-fields{
+      width: 29%;
+  }
+  .woocommerce-shipping-fields{
+      width: 29%;
+      margin-left: 2%;
+  }
+ 
+  .woocommerce-additional-fields{
+      width: 29%;
+  }
+}
